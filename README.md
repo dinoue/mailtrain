@@ -293,6 +293,21 @@ services:
   mailtrain:
     environment:
     - URL_BASE_TRUSTED
+```
+
+
+## License
+
+  **GPL-V3.0**
+
+    - URL_BASE_SANDBOX
+    - URL_BASE_PUBLIC
+```
+
+
+## License
+
+  **GPL-V3.0**
 
 # Mailtrain v2 -- 日本語 --
 
